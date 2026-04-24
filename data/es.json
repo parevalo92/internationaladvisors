@@ -1,0 +1,122 @@
+{
+  "floating": {
+    "cta": "Consulta migratoria"
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "process": "Proceso",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "International Advisors",
+    "title": "Asesoría migratoria con respaldo legal especializado",
+    "subtitle": "Te acompañamos en procesos migratorios con orientación profesional, estrategia clara y abogados especializados.",
+    "list1": "✅ Evaluación personalizada de tu caso",
+    "list2": "✅ Acompañamiento legal migratorio",
+    "list3": "✅ Preparación documental y seguimiento",
+    "primary": "Solicitar consulta",
+    "secondary": "Ver servicios"
+  },
+  "stats": {
+    "stat1": "Atención profesional",
+    "stat2": "Respuesta ágil",
+    "stat3": "Acompañamiento continuo"
+  },
+  "brands": {
+    "item1": "Migración",
+    "item2": "Residencias",
+    "item3": "Visas",
+    "item4": "Abogados especializados",
+    "item5": "Casos familiares y empresariales"
+  },
+  "about": {
+    "eyebrow": "Sobre nosotros",
+    "title": "Una firma orientada a proteger tu futuro migratorio",
+    "text": "International Advisors es una organización especializada en servicios migratorios, apoyada por un equipo de abogados y asesores con experiencia en procesos legales, documentación y estrategia migratoria.",
+    "featureTitle1": "Respaldo legal",
+    "featureText1": "Trabajamos con profesionales capacitados para revisar, orientar y acompañar tu proceso.",
+    "featureTitle2": "Estrategia migratoria",
+    "featureText2": "Cada caso se analiza de forma individual para definir una ruta clara y realista."
+  },
+  "trust": {
+    "eyebrow": "Confianza y claridad",
+    "title": "Acompañamiento serio para decisiones importantes",
+    "text": "Entendemos que un proceso migratorio puede cambiar tu vida. Por eso trabajamos con confidencialidad, comunicación clara y atención personalizada.",
+    "cardTitle1": "Confidencialidad",
+    "cardText1": "Tu información se maneja con responsabilidad y discreción.",
+    "cardTitle2": "Documentación",
+    "cardText2": "Te guiamos en la preparación, revisión y organización de tus documentos.",
+    "cardTitle3": "Abogados especializados",
+    "cardText3": "Contamos con apoyo legal para procesos migratorios complejos.",
+    "cardTitle4": "Comunicación clara",
+    "cardText4": "Te explicamos cada etapa con lenguaje simple y directo."
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Soluciones migratorias para personas, familias y empresas",
+    "serviceTitle1": "Visas y permisos",
+    "serviceText1": "Asesoría para solicitudes de visa, renovación, permisos temporales y procesos relacionados.",
+    "serviceTitle2": "Residencias y regularización",
+    "serviceText2": "Orientación para residencia temporal, permanente, reunificación familiar y regularización.",
+    "serviceTitle3": "Asesoría legal migratoria",
+    "serviceText3": "Evaluación de casos, estrategia legal y acompañamiento con abogados especializados.",
+    "link": "Solicitar información"
+  },
+  "process": {
+    "eyebrow": "Proceso",
+    "title": "Un proceso ordenado, claro y profesional",
+    "stepTitle1": "Evaluamos tu caso",
+    "stepText1": "Escuchamos tu situación, objetivos y antecedentes migratorios.",
+    "stepTitle2": "Diseñamos la estrategia",
+    "stepText2": "Definimos la ruta más adecuada según tu perfil, país destino y documentación.",
+    "stepTitle3": "Te acompañamos",
+    "stepText3": "Damos seguimiento a cada etapa para que avances con seguridad y claridad.",
+    "panelTitle": "Tu proyecto migratorio merece una guía experta",
+    "panelText": "Agenda una consulta inicial para conocer tus opciones y construir un plan de acción.",
+    "panelBtn": "Agendar consulta"
+  },
+  "blogPreview": {
+    "eyebrow": "Blog",
+    "title": "Artículos sobre migración y actualidad legal"
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Guías migratorias y actualidad legal",
+    "text": "Explora artículos sobre visas, residencia, permisos, procesos legales y noticias migratorias."
+  },
+  "postPage": {
+    "eyebrow": "Blog",
+    "title": "Artículo",
+    "text": "Lee contenido migratorio preparado para orientar tus decisiones."
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Hablemos de tu caso",
+    "address": "Dirección de International Advisors",
+    "hours": "Lunes a viernes"
+  },
+  "form": {
+    "name": "Tu nombre",
+    "email": "Tu email",
+    "subject": "Tipo de consulta",
+    "message": "Cuéntanos sobre tu caso",
+    "submit": "Enviar mensaje"
+  },
+  "footer": {
+    "copy": "© 2026 International Advisors.",
+    "description": "Servicios migratorios con respaldo legal, estrategia profesional y atención personalizada.",
+    "navTitle": "Navegación",
+    "home": "Inicio",
+    "services": "Servicios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "servicesTitle": "Servicios",
+    "visa": "Visas",
+    "residence": "Residencias",
+    "legal": "Asesoría legal",
+    "socialTitle": "Síguenos"
+  }
+}

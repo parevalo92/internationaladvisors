@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog | International Advisors</title>
+  <meta name="description" content="Artículos sobre migración, visas, residencia y asesoría legal migratoria.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="cursor-glow"></div>
+
+  <header class="site-header scrolled" id="header">
+    <nav class="navbar container">
+      <a href="index.html" class="nav-logo">
+        <img src="img/logo.png" alt="International Advisors Logo" class="logoimg">
+      </a>
+
+      <button id="menu-open-button" class="menu-toggle" aria-label="Abrir menú">
+        <i class="fas fa-bars"></i>
+      </button>
+
+      <ul class="nav-menu" id="nav-menu">
+        <button id="menu-close-button" class="menu-close" aria-label="Cerrar menú">
+          <i class="fas fa-times"></i>
+        </button>
+
+        <li><a href="index.html#hero" class="nav-link" data-section="header" data-value="home">Inicio</a></li>
+        <li><a href="index.html#about" class="nav-link" data-section="header" data-value="about">Nosotros</a></li>
+        <li><a href="index.html#services" class="nav-link" data-section="header" data-value="services">Servicios</a></li>
+        <li><a href="index.html#process" class="nav-link" data-section="header" data-value="process">Proceso</a></li>
+        <li><a href="blog.html" class="nav-link" data-section="header" data-value="blog">Blog</a></li>
+        <li><a href="index.html#contact" class="nav-link" data-section="header" data-value="contact">Contacto</a></li>
+
+        <div class="langbuttons">
+          <button class="lang-btn active" data-language="es">ES</button>
+          <button class="lang-btn" data-language="en">EN</button>
+        </div>
+      </ul>
+    </nav>
+  </header>
+
+  <main style="padding-top: 140px;">
+    <section class="section-space">
+      <div class="container">
+        <div class="section-heading reveal visible">
+          <span class="eyebrow" data-section="blogPage" data-value="eyebrow">Blog</span>
+          <h1 class="section-title" data-section="blogPage" data-value="title">Guías migratorias y actualidad legal</h1>
+          <p class="section-text" data-section="blogPage" data-value="text">
+            Explora artículos sobre visas, residencia, permisos, procesos legales y noticias migratorias.
+          </p>
+        </div>
+
+        <div class="blog-grid" id="blog-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-section premium-footer">
+    <div class="container">
+      <div class="footer-top glass">
+        <div class="footer-brand">
+          <img src="img/logo.png" alt="International Advisors" class="footer-logo">
+          <p class="footer-copy" data-section="footer" data-value="copy">© 2026 International Advisors.</p>
+          <p class="footer-description" data-section="footer" data-value="description">
+            Servicios migratorios con respaldo legal, estrategia profesional y atención personalizada.
+          </p>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-section="footer" data-value="navTitle">Navegación</h4>
+          <a href="index.html#hero" data-section="footer" data-value="home">Inicio</a>
+          <a href="index.html#services" data-section="footer" data-value="services">Servicios</a>
+          <a href="blog.html" data-section="footer" data-value="blog">Blog</a>
+          <a href="index.html#contact" data-section="footer" data-value="contact">Contacto</a>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-section="footer" data-value="servicesTitle">Servicios</h4>
+          <a href="index.html#services" data-section="footer" data-value="visa">Visas</a>
+          <a href="index.html#services" data-section="footer" data-value="residence">Residencias</a>
+          <a href="index.html#services" data-section="footer" data-value="legal">Asesoría legal</a>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-section="footer" data-value="socialTitle">Síguenos</h4>
+          <div class="social-link-list">
+            <a href="#" class="social-link"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#" class="social-link"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#" class="social-link"><i class="fa-brands fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

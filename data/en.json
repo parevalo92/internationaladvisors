@@ -1,0 +1,122 @@
+{
+  "floating": {
+    "cta": "Immigration consultation"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "process": "Process",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "International Advisors",
+    "title": "Immigration guidance backed by specialized legal support",
+    "subtitle": "We support your immigration process with professional guidance, clear strategy, and specialized attorneys.",
+    "list1": "✅ Personalized case evaluation",
+    "list2": "✅ Immigration legal support",
+    "list3": "✅ Document preparation and follow-up",
+    "primary": "Request consultation",
+    "secondary": "View services"
+  },
+  "stats": {
+    "stat1": "Professional attention",
+    "stat2": "Fast response",
+    "stat3": "Continuous support"
+  },
+  "brands": {
+    "item1": "Immigration",
+    "item2": "Residency",
+    "item3": "Visas",
+    "item4": "Specialized attorneys",
+    "item5": "Family and business cases"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A firm focused on protecting your immigration future",
+    "text": "International Advisors is an organization specialized in immigration services, supported by attorneys and advisors experienced in legal processes, documentation, and immigration strategy.",
+    "featureTitle1": "Legal support",
+    "featureText1": "We work with trained professionals to review, guide, and support your process.",
+    "featureTitle2": "Immigration strategy",
+    "featureText2": "Each case is reviewed individually to define a clear and realistic path."
+  },
+  "trust": {
+    "eyebrow": "Trust and clarity",
+    "title": "Serious support for important decisions",
+    "text": "We understand that an immigration process can change your life. That is why we work with confidentiality, clear communication, and personalized attention.",
+    "cardTitle1": "Confidentiality",
+    "cardText1": "Your information is handled responsibly and discreetly.",
+    "cardTitle2": "Documentation",
+    "cardText2": "We guide you through preparing, reviewing, and organizing your documents.",
+    "cardTitle3": "Specialized attorneys",
+    "cardText3": "We provide legal support for complex immigration processes.",
+    "cardTitle4": "Clear communication",
+    "cardText4": "We explain every stage in simple and direct language."
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Immigration solutions for individuals, families, and companies",
+    "serviceTitle1": "Visas and permits",
+    "serviceText1": "Guidance for visa applications, renewals, temporary permits, and related processes.",
+    "serviceTitle2": "Residency and regularization",
+    "serviceText2": "Guidance for temporary residency, permanent residency, family reunification, and regularization.",
+    "serviceTitle3": "Immigration legal advice",
+    "serviceText3": "Case evaluation, legal strategy, and support with specialized attorneys.",
+    "link": "Request information"
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "An organized, clear, and professional process",
+    "stepTitle1": "We evaluate your case",
+    "stepText1": "We listen to your situation, goals, and immigration background.",
+    "stepTitle2": "We design the strategy",
+    "stepText2": "We define the best route according to your profile, destination country, and documentation.",
+    "stepTitle3": "We support you",
+    "stepText3": "We follow up on each stage so you can move forward with clarity and confidence.",
+    "panelTitle": "Your immigration project deserves expert guidance",
+    "panelText": "Schedule an initial consultation to understand your options and build an action plan.",
+    "panelBtn": "Schedule consultation"
+  },
+  "blogPreview": {
+    "eyebrow": "Blog",
+    "title": "Articles about immigration and legal updates"
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Immigration guides and legal updates",
+    "text": "Explore articles about visas, residency, permits, legal processes, and immigration news."
+  },
+  "postPage": {
+    "eyebrow": "Blog",
+    "title": "Article",
+    "text": "Read immigration content designed to guide your decisions."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk about your case",
+    "address": "International Advisors address",
+    "hours": "Monday to Friday"
+  },
+  "form": {
+    "name": "Your name",
+    "email": "Your email",
+    "subject": "Consultation type",
+    "message": "Tell us about your case",
+    "submit": "Send message"
+  },
+  "footer": {
+    "copy": "© 2026 International Advisors.",
+    "description": "Immigration services with legal support, professional strategy, and personalized attention.",
+    "navTitle": "Navigation",
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "servicesTitle": "Services",
+    "visa": "Visas",
+    "residence": "Residency",
+    "legal": "Legal advice",
+    "socialTitle": "Follow us"
+  }
+}

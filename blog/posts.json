@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "como-preparar-tu-consulta-migratoria",
+    "date": "2026-01-15",
+    "image": "img/blg240401.png",
+    "category": {
+      "es": "Guía migratoria",
+      "en": "Immigration guide"
+    },
+    "title": {
+      "es": "Cómo preparar tu primera consulta migratoria",
+      "en": "How to prepare for your first immigration consultation"
+    },
+    "excerpt": {
+      "es": "Conoce qué documentos, preguntas e información debes tener lista antes de hablar con un asesor migratorio.",
+      "en": "Learn what documents, questions, and information you should prepare before speaking with an immigration advisor."
+    },
+    "content": {
+      "es": "<p>Una consulta migratoria bien preparada permite analizar tu caso con mayor precisión y definir una estrategia más clara.</p><p>Antes de tu cita, reúne documentos personales, historial migratorio, fechas importantes, cartas recibidas, pasaportes anteriores y cualquier información relacionada con tu objetivo migratorio.</p><p>También es recomendable escribir tus preguntas principales para aprovechar mejor el tiempo con el asesor o abogado especializado.</p>",
+      "en": "<p>A well-prepared immigration consultation allows your case to be reviewed more accurately and helps define a clearer strategy.</p><p>Before your appointment, gather personal documents, immigration history, important dates, received letters, previous passports, and any information related to your immigration goal.</p><p>It is also recommended to write down your main questions to make better use of your time with the advisor or specialized attorney.</p>"
+    }
+  },
+  {
+    "slug": "errores-comunes-en-procesos-migratorios",
+    "date": "2026-01-22",
+    "image": "img/blg240402.png",
+    "category": {
+      "es": "Consejos legales",
+      "en": "Legal tips"
+    },
+    "title": {
+      "es": "Errores comunes en procesos migratorios",
+      "en": "Common mistakes in immigration processes"
+    },
+    "excerpt": {
+      "es": "Evita errores frecuentes al presentar documentos, completar formularios o iniciar un trámite migratorio sin orientación profesional.",
+      "en": "Avoid common mistakes when submitting documents, completing forms, or starting an immigration process without professional guidance."
+    },
+    "content": {
+      "es": "<p>Uno de los errores más comunes es iniciar un trámite sin conocer los requisitos completos o sin revisar cuidadosamente la documentación.</p><p>También pueden existir inconsistencias entre formularios, fechas o declaraciones previas. Estas diferencias pueden causar retrasos o complicaciones.</p><p>La asesoría profesional ayuda a identificar riesgos antes de presentar una solicitud y permite preparar un expediente más sólido.</p>",
+      "en": "<p>One of the most common mistakes is starting a process without fully understanding the requirements or carefully reviewing the documentation.</p><p>There may also be inconsistencies between forms, dates, or previous statements. These differences can cause delays or complications.</p><p>Professional guidance helps identify risks before submitting an application and allows you to prepare a stronger case file.</p>"
+    }
+  }
+]
