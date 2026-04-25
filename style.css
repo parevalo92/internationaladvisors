@@ -869,3 +869,33 @@ textarea.form-input {
     grid-template-columns: 1fr;
   }
 }
+
+/* HERO TITLE ANIMACIÓN INFINITA */
+
+.premium-hero-title {
+  background: linear-gradient(
+    90deg,
+    var(--light-color) 0%,
+    var(--light-color) 40%,
+    var(--secondary-color) 50%,
+    var(--light-color) 60%,
+    var(--light-color) 100%
+  );
+
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+
+  animation: shimmerText 4s linear infinite;
+}
+
+/* movimiento infinito */
+@keyframes shimmerText {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}

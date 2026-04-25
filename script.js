@@ -152,6 +152,7 @@ async function changeLanguage(lang) {
   } catch (error) {
     console.error("Error loading language file:", error);
   }
+  
 }
 
 languageButtons.forEach(button => {
@@ -312,3 +313,4 @@ document.addEventListener("DOMContentLoaded", () => {
   const savedLanguage = localStorage.getItem("language") || "es";
   changeLanguage(savedLanguage);
 });
+
