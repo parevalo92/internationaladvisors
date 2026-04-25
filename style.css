@@ -141,10 +141,17 @@ ul { list-style: none; }
   justify-content: space-between;
 }
 
-.logoimg,
+.logoimg {
+  width: 150px;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
+
 .footer-logo {
   width: 170px;
-  max-height: 64px;
+  height: auto;
+  max-height: none;
   object-fit: contain;
 }
 
@@ -897,5 +904,100 @@ textarea.form-input {
   }
   100% {
     background-position: 200% center;
+  }
+}
+
+/* ATTORNEYS SECTION */
+
+.attorneys-section {
+  position: relative;
+}
+
+.attorneys-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+  margin-top: 44px;
+}
+
+.attorney-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 28px;
+  background: linear-gradient(180deg, rgba(237,237,237,0.10), rgba(237,237,237,0.04));
+  border: 1px solid rgba(237,237,237,0.14);
+  box-shadow: var(--shadow-md);
+  transition: transform 0.35s ease, border-color 0.35s ease, box-shadow 0.35s ease;
+}
+
+.attorney-card:hover {
+  transform: translateY(-8px);
+  border-color: rgba(174, 135, 79, 0.45);
+  box-shadow: 0 22px 50px rgba(0, 0, 0, 0.34);
+}
+
+.attorney-photo {
+  position: relative;
+  height: 330px;
+  overflow: hidden;
+}
+
+.attorney-photo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 45%, rgba(11, 24, 37, 0.82) 100%);
+  pointer-events: none;
+}
+
+.attorney-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.55s ease;
+}
+
+.attorney-card:hover .attorney-photo img {
+  transform: scale(1.06);
+}
+
+.attorney-info {
+  position: relative;
+  padding: 24px;
+}
+
+.attorney-info h3 {
+  font-size: 1.22rem;
+  margin-bottom: 8px;
+  color: var(--light-color);
+}
+
+.attorney-info span {
+  display: inline-block;
+  color: var(--secondary-color);
+  font-size: 0.9rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.attorney-info p {
+  color: var(--text-soft);
+  line-height: 1.6;
+  font-size: 0.96rem;
+}
+
+@media (max-width: 1100px) {
+  .attorneys-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .attorneys-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .attorney-photo {
+    height: 380px;
   }
 }
